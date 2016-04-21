@@ -1,0 +1,2 @@
+# a-life-time-time-counter
+'a life time' is a project of slow interaction. this is a time counter called a life time... it contains 80 RGB LED Neopixels, each pixel represents 1 year, people being chased by time everyday, the clock is the main thing to see how time flies away... ‘a life time’ allows you to experiece time slowly by slowing down the visual experiece, to allow you to see time in long term.
